@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782200eaa8367211f67d69cdfafe4f94/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/b38362f2ad1a596e14d4ef1046cde8c9/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/77c8e96f96970fa2369a43daae45fdd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/07897c40ebccb9f0ff7f2fe951031c03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ede9b276d61da86f41a1a612c2ba146f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/775fb95de4b07ae00d65345aa668ab60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7e8e130d7ca84c859e8d308d8c27cf70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7b9e9d5fad4acb83e9c5ee2dd92504a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/44ae8d847bcd9b2b2dddc8178f4b7809/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e2843336b41ff62ca7368e7b8b767462/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e437734c540194d541e4d3ca11b1b3d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1fe5846771ec706af6c1d803606f00df/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:5:5-19:19
+	android:supportsRtl
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.knrmalhotra.chapter3.MainActivity
+ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782200eaa8367211f67d69cdfafe4f94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782200eaa8367211f67d69cdfafe4f94/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/b38362f2ad1a596e14d4ef1046cde8c9/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/b38362f2ad1a596e14d4ef1046cde8c9/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/77c8e96f96970fa2369a43daae45fdd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/77c8e96f96970fa2369a43daae45fdd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/07897c40ebccb9f0ff7f2fe951031c03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/07897c40ebccb9f0ff7f2fe951031c03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ede9b276d61da86f41a1a612c2ba146f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ede9b276d61da86f41a1a612c2ba146f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/775fb95de4b07ae00d65345aa668ab60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/775fb95de4b07ae00d65345aa668ab60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7e8e130d7ca84c859e8d308d8c27cf70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7e8e130d7ca84c859e8d308d8c27cf70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7b9e9d5fad4acb83e9c5ee2dd92504a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7b9e9d5fad4acb83e9c5ee2dd92504a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/44ae8d847bcd9b2b2dddc8178f4b7809/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/44ae8d847bcd9b2b2dddc8178f4b7809/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e2843336b41ff62ca7368e7b8b767462/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e2843336b41ff62ca7368e7b8b767462/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e437734c540194d541e4d3ca11b1b3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e437734c540194d541e4d3ca11b1b3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1fe5846771ec706af6c1d803606f00df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1fe5846771ec706af6c1d803606f00df/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/src/main/AndroidManifest.xml
