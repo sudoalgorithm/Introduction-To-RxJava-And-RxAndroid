@@ -1,4 +1,0 @@
-#Sat Jun 23 23:03:56 GST 2018
-base.0=/Users/kunalmalhotra/AndroidStudioProjects/Introduction-To-RxJava-And-RxAndroid/Chapter-3/app/build/intermediates/transforms/dexMerger/debug/1
-path.0=classes.dex
-renamed.0=classes.dex
