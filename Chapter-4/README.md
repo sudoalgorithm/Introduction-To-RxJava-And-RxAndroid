@@ -1,4 +1,4 @@
-# Chapter 3: Introduction To Operator
+# Chapter 2: Introduction To Operator
 
 Now we’ll see another example by introducing an operator to transform the emitted data. In the below example **filter()** operator is used to filter out the emitted data.
 
