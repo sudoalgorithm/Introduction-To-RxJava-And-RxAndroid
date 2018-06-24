@@ -19,12 +19,12 @@ implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
 ```
 Observable<String> animalsObservable = Observable.just("Brazil","Germany","England","France","Chile");
 ```
-2. Create an Observer that listen to Observable. Observer provides the below interface methods to know the the state of Observable.
+2. Create an **Observer** that listen to Observable. Observer provides the below interface methods to know the the state of Observable.
 
-- onSubscribe(): Method will be called when an Observer subscribes to Observable.
-- onNext(): This method will be called when Observable starts emitting the data.
-- onError(): In case of any error, onError() method will be called.
-- onComplete(): When an Observable completes the emission of all the items, onComplete() will be called.
+- **onSubscribe()**: Method will be called when an Observer subscribes to Observable.
+- **onNext()**: This method will be called when Observable starts emitting the data.
+- **onError()**: In case of any error, onError() method will be called.
+- **onComplete()**: When an Observable completes the emission of all the items, onComplete() will be called.
 
 ```
 private Observer<String> getTeamObserver(){
@@ -55,8 +55,8 @@ private Observer<String> getTeamObserver(){
 
 3. Make Observer subscribe to Observable so that it can start receiving the data. Here, you can notice two more methods, observeOn() and subscribeOn().
 
-- subscribeOn(Schedulers.io()): This tell the Observable to run the task on a background thread.
-- observeOn(AndroidSchedulers.mainThread()): This tells the Observer to receive the data on android UI thread so that you can take any UI related actions.
+- **subscribeOn(Schedulers.io())**: This tell the Observable to run the task on a background thread.
+- **observeOn(AndroidSchedulers.mainThread())**: This tells the Observer to receive the data on android UI thread so that you can take any UI related actions.
 
 ```
 teamObservable.observeOn(Schedulers.io())
