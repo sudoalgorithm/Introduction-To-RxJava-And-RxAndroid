@@ -1,4 +1,4 @@
-# Chapter 1: Introduction To Disposable
+# Chapter 2: Introduction To Disposable
 
 In this we gonna learn new component called **Disposable**.
 
