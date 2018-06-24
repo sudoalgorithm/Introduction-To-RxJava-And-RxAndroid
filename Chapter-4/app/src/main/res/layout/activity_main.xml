@@ -8,10 +8,14 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/text_view_main"
+        android:id="@+id/text_view_main_one"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
         />
+
+    <TextView
+        android:id="@+id/text_view_main_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
