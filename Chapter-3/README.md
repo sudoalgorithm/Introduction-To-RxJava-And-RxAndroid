@@ -16,6 +16,6 @@ teamObservable
                         return s.toLowerCase().startsWith("b");
                     }
                 })
-                .subscribeWith(animalsObserver);
+                .subscribeWith(teamObserver);
 }
 ```
